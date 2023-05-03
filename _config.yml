@@ -79,7 +79,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/3howley"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-clouds-sun"
+      icon: "fas fa-fw fa-cloud-sun"
       url: "https://staging.bsky.app/profile/howley.lol"
 
 defaults:
