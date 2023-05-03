@@ -1,5 +1,5 @@
 ---
-title: "How does the internet actually work?"
+title: "How does the internet actually work? Part 1"
 date: 2023-05-03
 categories:
   - blog
