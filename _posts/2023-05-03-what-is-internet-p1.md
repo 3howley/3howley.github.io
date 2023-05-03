@@ -10,8 +10,6 @@ tags:
 ---
 
 
-# How does the internet *actually* work? Part 1
-
 I recently got an invite to [Bluesky](bsky.app), a new social media player that aims to not only unseat Twitter as the space-king of microblogging, but also usher in a new age of decentralized social media. I've been watching the development of the [AT Protocol](atproto.com) for a while now and it's got me very interested. While it's not perfect, it definitely has a lot of strengths over the other major player in the space, [Mastodon](https://docs.joinmastodon.org/), and (crucially for this discussion) is in my opinion more easy to understand for the layman and is a great avenue for learning.
 
 In fact, this is going to be the first in a multi-part series on *how the internet works*. The internet is something that has become so interwoven into our lives, but for many it's as mystical as the stock market or The Force. Take domains for example. Everyone knows what a URL is, but (speaking from my experience) for the most part people don’t know **how** they work and how they differ from domains. Let's look at an example:
