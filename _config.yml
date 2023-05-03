@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "howley"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi I'm howley. I work in \"tech\", I'm a communist, and I really like breaking things"
+  bio    : "I work in \"tech\", I'm a communist, and I really like breaking things"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
