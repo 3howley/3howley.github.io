@@ -90,6 +90,9 @@ footer:
     - label: "Bluesky"
       icon: "fas fa-fw fa-cloud-sun"
       url: "https://staging.bsky.app/profile/howley.lol"
+    - label: "Mastodon"
+      icon: "fas fa-fw fa-mastodon"
+      url: "https://infosec.exchange/@howley_"
 
 defaults:
   # _posts
