@@ -76,7 +76,7 @@ author:
       icon: "fas fa-fw fa-cloud-sun"
       url: "https://staging.bsky.app/profile/howley.lol"
     - label: "Mastodon"
-      icon: "fas fa-fw fa-mastodon"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://infosec.exchange/@howley_"
 
 footer:
@@ -91,7 +91,7 @@ footer:
       icon: "fas fa-fw fa-cloud-sun"
       url: "https://staging.bsky.app/profile/howley.lol"
     - label: "Mastodon"
-      icon: "fas fa-fw fa-mastodon"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://infosec.exchange/@howley_"
 
 defaults:
